@@ -41,3 +41,21 @@ figcaption {
     justify-items: center;
     padding: 10px;
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flight {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    margin-top: 30px;
+    padding: 0 20px;
+}
+
+.flight.title {
+    font-weight: bolder;
+}
