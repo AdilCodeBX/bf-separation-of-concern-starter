@@ -10,9 +10,9 @@
 
 - _text color : #FFFFFF rgb(255 255 255) white_
 
-- _background color :#333333 rgb(51 51 51)_
+- _background color : #5a5353_
 
-- _Elements color : rgb(128, 128, 128)_
+- _Elements color : rgb(0, 0, 226) blue_
 
 ---
 
